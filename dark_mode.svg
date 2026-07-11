@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" font-family="'JetBrains Mono','Cascadia Code','Courier New',monospace">
+<defs>
+    <linearGradient id="ag_dark" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#d2a8ff"/>
+      <stop offset="1" stop-color="#79c0ff"/>
+    </linearGradient>
+    </defs>
+<style>
+    text { white-space: pre; dominant-baseline: middle; }
+    .ln { clip-path: inset(0 0 0 0); }                 /* safe visible default */
+    .w  { animation: wipe var(--d,.32s) linear both; }
+    @keyframes wipe { from { clip-path: inset(0 100% 0 0); }
+                       to   { clip-path: inset(0 0 0 0); } }
+    .cur { animation: blink 1.05s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    </style>
+<rect x="4" y="4" width="892" height="612" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<text x="20" y="149.6" font-size="10.0" fill="url(#ag_dark)" class="ln w" style="--d:0.3s;animation-delay:0.00s">                     .`"``.'</text>
+<text x="20" y="162.6" font-size="10.0" fill="url(#ag_dark)" class="ln w" style="--d:0.3s;animation-delay:0.04s">               "!lrmp$B$8B$&amp;kqj!,^^.</text>
+<text x="20" y="175.6" font-size="10.0" fill="url(#ag_dark)" class="ln w" style="--d:0.3s;animation-delay:0.07s">            . lg88#%@@@@@@@@@@W$*wtI.</text>
+<text x="20" y="188.6" font-size="10.0" fill="url(#ag_dark)" class="ln w" style="--d:0.3s;animation-delay:0.11s">           'jwW@@@@@@@@@@@@@@@@%##gj^"".</text>
+<text x="20" y="201.6" font-size="10.0" fill="url(#ag_dark)" class="ln w" style="--d:0.3s;animation-delay:0.14s">           .p@@@@@@@@@@@@@@@@@@%%@#&amp;kqqj^</text>
+<text x="20" y="214.6" font-size="10.0" fill="url(#ag_dark)" class="ln w" style="--d:0.3s;animation-delay:0.18s">        `Irk@@@@@@@@@@@@@@@@@@@@@@@@@8hI".</text>
+<text x="20" y="227.6" font-size="10.0" fill="url(#ag_dark)" class="ln w" style="--d:0.3s;animation-delay:0.21s">      ."rB%@@@@@@@@@@@@@@@@@@@@@@@@@@%&amp;t.</text>
+<text x="20" y="240.6" font-size="10.0" fill="url(#ag_dark)" class="ln w" style="--d:0.3s;animation-delay:0.25s">      'p%@@@@@@@@@@@@@@@@@@@%WB*$#@@@@Mw'  .</text>
+<text x="20" y="253.6" font-size="10.0" fill="url(#ag_dark)" class="ln w" style="--d:0.3s;animation-delay:0.28s">       'B@@@@@@@@@@@@@@@@%W$hj,.`d@@@@@*t;l`</text>
+<text x="20" y="266.6" font-size="10.0" fill="url(#ag_dark)" class="ln w" style="--d:0.3s;animation-delay:0.32s">       '*#@@@@@@@@@@@@@@M$$kml  .IB@@#M#hl^</text>
+<text x="20" y="279.6" font-size="10.0" fill="url(#ag_dark)" class="ln w" style="--d:0.3s;animation-delay:0.35s">       .r@@@@@@@@@@@@@@@@%WMBgdm!ld@@@@B:</text>
+<text x="20" y="292.6" font-size="10.0" fill="url(#ag_dark)" class="ln w" style="--d:0.3s;animation-delay:0.39s">        l%@@@@@@@@@@@@@@@@g8@@@#Bwj@@8*;</text>
+<text x="20" y="305.6" font-size="10.0" fill="url(#ag_dark)" class="ln w" style="--d:0.3s;animation-delay:0.42s">        .i#@@@@%%@@@@@@@@%jlg#Mmjlt#m`</text>
+<text x="20" y="318.6" font-size="10.0" fill="url(#ag_dark)" class="ln w" style="--d:0.3s;animation-delay:0.46s">         .d@@@@#MW#%@@@@@%p ':i;. ld.</text>
+<text x="20" y="331.6" font-size="10.0" fill="url(#ag_dark)" class="ln w" style="--d:0.3s;animation-delay:0.49s">         :W@@@@@W#%@@@@@@%8w!IBq,';"</text>
+<text x="20" y="344.6" font-size="10.0" fill="url(#ag_dark)" class="ln w" style="--d:0.3s;animation-delay:0.53s">         ;W@@@@@@@@@@@@@@%%%gd#Wdir.</text>
+<text x="20" y="357.6" font-size="10.0" fill="url(#ag_dark)" class="ln w" style="--d:0.3s;animation-delay:0.56s">          ;B@%@@@@@@@@@%Bkdwm$W*qh,</text>
+<text x="20" y="370.6" font-size="10.0" fill="url(#ag_dark)" class="ln w" style="--d:0.3s;animation-delay:0.60s">           ,M@@@@@@@@@@@@#Wpliqh&amp;!</text>
+<text x="20" y="383.6" font-size="10.0" fill="url(#ag_dark)" class="ln w" style="--d:0.3s;animation-delay:0.63s">         ^tl*@@@@@@@@@@@@@Wdrrkh;</text>
+<text x="20" y="396.6" font-size="10.0" fill="url(#ag_dark)" class="ln w" style="--d:0.3s;animation-delay:0.67s">       ^jWMtid#@@@@@@@@@@@@W$m;.</text>
+<text x="20" y="409.6" font-size="10.0" fill="url(#ag_dark)" class="ln w" style="--d:0.3s;animation-delay:0.70s">    `;pW@@@gjtjg%@@@@%%%%$ptq^</text>
+<text x="20" y="422.6" font-size="10.0" fill="url(#ag_dark)" class="ln w" style="--d:0.3s;animation-delay:0.74s">':jgW@@@@@@@$wrtw*8MM88Bgr:i8!;pr;`.</text>
+<text x="20" y="435.6" font-size="10.0" fill="url(#ag_dark)" class="ln w" style="--d:0.3s;animation-delay:0.77s">M@@@@@@@@@@@@gwrrtItqhgkm!t#Br"w##8$hr,'</text>
+<text x="20" y="448.6" font-size="10.0" fill="url(#ag_dark)" class="ln w" style="--d:0.3s;animation-delay:0.81s">@@@@@@@@@@@@@%*jrtr!"lqprj#%pt:I&amp;8W###M$drl"'</text>
+<text x="20" y="461.6" font-size="10.0" fill="url(#ag_dark)" class="ln w" style="--d:0.3s;animation-delay:0.84s">@@@@@@@@@@@@@@#dtttt!`lpk8pii!;B@BBMWMWWMMB&amp;kr.</text>
+<text x="20" y="474.6" font-size="10.0" fill="url(#ag_dark)" class="ln w" style="--d:0.3s;animation-delay:0.88s">@@@@@@@@@@@@@@@WwiII!;"jB, `":'j@#$BWMMMMMB&amp;&amp;Mq.</text>
+<text x="372" y="40.1" font-size="13.0" class="ln w" style="--d:0.32s;animation-delay:0.61s"><tspan fill="#7ee787">charith</tspan><tspan fill="#c9d1d9">@</tspan><tspan fill="#a5d6ff">kapuluru</tspan><tspan fill="#484f58"> ---------------------------------------</tspan></text>
+<text x="372" y="60.2" font-size="13.0" class="ln w" style="--d:0.32s;animation-delay:0.69s"><tspan fill="#ffa657">OS:</tspan><tspan fill="#484f58"> .................. </tspan><tspan fill="#c9d1d9">macOS Sequoia, Ubuntu, Windows 11</tspan></text>
+<text x="372" y="80.4" font-size="13.0" class="ln w" style="--d:0.32s;animation-delay:0.78s"><tspan fill="#ffa657">Uptime:</tspan><tspan fill="#484f58"> ............................. </tspan><tspan fill="#c9d1d9">24 years, 162 days</tspan></text>
+<text x="372" y="100.5" font-size="13.0" class="ln w" style="--d:0.32s;animation-delay:0.86s"><tspan fill="#ffa657">Host:</tspan><tspan fill="#484f58"> ........... </tspan><tspan fill="#c9d1d9">CBRE - Digital &amp; Technology (Incoming)</tspan></text>
+<text x="372" y="120.7" font-size="13.0" class="ln w" style="--d:0.32s;animation-delay:0.95s"><tspan fill="#ffa657">Kernel:</tspan><tspan fill="#484f58"> ............. </tspan><tspan fill="#c9d1d9">Cloud &amp; DevSecOps / GenAI Engineer</tspan></text>
+<text x="372" y="140.8" font-size="13.0" class="ln w" style="--d:0.32s;animation-delay:1.03s"><tspan fill="#ffa657">IDE:</tspan><tspan fill="#484f58"> ..................... </tspan><tspan fill="#c9d1d9">VS Code, Claude Code, PyCharm</tspan></text>
+<text x="372" y="181.1" font-size="13.0" class="ln w" style="--d:0.32s;animation-delay:1.20s"><tspan fill="#ffa657">Languages.Programming:</tspan><tspan fill="#484f58"> .. </tspan><tspan fill="#c9d1d9">Python, Java, JavaScript, Bash</tspan></text>
+<text x="372" y="201.3" font-size="13.0" class="ln w" style="--d:0.32s;animation-delay:1.29s"><tspan fill="#ffa657">Languages.Computer:</tspan><tspan fill="#484f58"> .. </tspan><tspan fill="#c9d1d9">HTML, CSS, JSON, YAML, HCL, LaTeX</tspan></text>
+<text x="372" y="221.4" font-size="13.0" class="ln w" style="--d:0.32s;animation-delay:1.37s"><tspan fill="#ffa657">Languages.Real:</tspan><tspan fill="#484f58"> ................. </tspan><tspan fill="#c9d1d9">English, Telugu, Hindi</tspan></text>
+<text x="372" y="261.7" font-size="13.0" class="ln w" style="--d:0.32s;animation-delay:1.54s"><tspan fill="#ffa657">Hobbies.Software:</tspan><tspan fill="#484f58"> . </tspan><tspan fill="#c9d1d9">LLM tinkering, Homelab, Self-hosting</tspan></text>
+<text x="372" y="281.9" font-size="13.0" class="ln w" style="--d:0.32s;animation-delay:1.62s"><tspan fill="#ffa657">Hobbies.Fitness:</tspan><tspan fill="#484f58"> ...... </tspan><tspan fill="#c9d1d9">Powerlifting, Bulking, Nutrition</tspan></text>
+<text x="372" y="322.2" font-size="13.0" class="ln w" style="--d:0.32s;animation-delay:1.80s"><tspan fill="#79c0ff">- Contact -</tspan><tspan fill="#484f58">----------------------------------------------</tspan></text>
+<text x="372" y="342.3" font-size="13.0" class="ln w" style="--d:0.32s;animation-delay:1.88s"><tspan fill="#ffa657">Email:</tspan><tspan fill="#484f58"> ....................... </tspan><tspan fill="#c9d1d9">charithkapuluru@gmail.com</tspan></text>
+<text x="372" y="362.5" font-size="13.0" class="ln w" style="--d:0.32s;animation-delay:1.97s"><tspan fill="#ffa657">Website:</tspan><tspan fill="#484f58"> ........................... </tspan><tspan fill="#c9d1d9">charithkapuluru.com</tspan></text>
+<text x="372" y="382.6" font-size="13.0" class="ln w" style="--d:0.32s;animation-delay:2.05s"><tspan fill="#ffa657">LinkedIn:</tspan><tspan fill="#484f58"> .............................. </tspan><tspan fill="#c9d1d9">charithkapuluru</tspan></text>
+<text x="372" y="402.8" font-size="13.0" class="ln w" style="--d:0.32s;animation-delay:2.14s"><tspan fill="#ffa657">GitHub:</tspan><tspan fill="#484f58"> ................................ </tspan><tspan fill="#c9d1d9">charithkapuluru</tspan></text>
+<text x="372" y="443.1" font-size="13.0" class="ln w" style="--d:0.32s;animation-delay:2.31s"><tspan fill="#79c0ff">- GitHub Stats -</tspan><tspan fill="#484f58">-----------------------------------------</tspan></text>
+<text x="372" y="463.2" font-size="13.0" class="ln w" style="--d:0.32s;animation-delay:2.39s"><tspan fill="#ffa657">Repos:</tspan><tspan fill="#484f58"> .............................................. </tspan><tspan fill="#c9d1d9">37</tspan></text>
+<text x="372" y="483.4" font-size="13.0" class="ln w" style="--d:0.32s;animation-delay:2.48s"><tspan fill="#ffa657">Stars:</tspan><tspan fill="#484f58"> ............................................. </tspan><tspan fill="#c9d1d9">128</tspan></text>
+<text x="372" y="503.5" font-size="13.0" class="ln w" style="--d:0.32s;animation-delay:2.56s"><tspan fill="#ffa657">Followers:</tspan><tspan fill="#484f58"> .......................................... </tspan><tspan fill="#c9d1d9">42</tspan></text>
+<text x="372" y="523.7" font-size="13.0" class="ln w" style="--d:0.32s;animation-delay:2.65s"><tspan fill="#ffa657">Commits:</tspan><tspan fill="#484f58"> ......................................... </tspan><tspan fill="#c9d1d9">2,411</tspan></text>
+<text x="372" y="543.8" font-size="13.0" class="ln w" style="--d:0.32s;animation-delay:2.73s"><tspan fill="#ffa657">Lines of Code:</tspan><tspan fill="#484f58"> ........ </tspan><tspan fill="#c9d1d9">222,332</tspan><tspan fill="#c9d1d9"> ( </tspan><tspan fill="#3fb950">318,742++</tspan><tspan fill="#c9d1d9">,  </tspan><tspan fill="#f85149">96,410--</tspan><tspan fill="#c9d1d9"> )</tspan></text>
+<text x="372" y="584.1" font-size="13.0" class="ln w" style="--d:0.32s;animation-delay:2.90s"><tspan fill="#7ee787">charith</tspan><tspan fill="#c9d1d9">@</tspan><tspan fill="#a5d6ff">kapuluru</tspan><tspan fill="#c9d1d9">:~$ </tspan></text>
+<rect class="cur" x="528.0" y="577.0" width="7.0" height="13.0" fill="#7ee787" style="animation-delay:2.99s"/>
+</svg>

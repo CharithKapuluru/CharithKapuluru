@@ -1,0 +1,40 @@
+name: Update profile SVGs
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"     # twice a day (00:00 & 12:00 UTC)
+  push:
+    branches: [ main ]
+  workflow_dispatch:            # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate SVGs
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          USER_NAME: ${{ github.repository_owner }}
+        run: python today.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dark_mode.svg light_mode.svg cache/
+          git diff --staged --quiet || git commit -m "chore: refresh profile stats [skip ci]"
+          git push

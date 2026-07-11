@@ -38,7 +38,7 @@ INFO = {
     "hobby_software": "LLM tinkering, Homelab, Self-hosting",
     "hobby_fitness":  "Powerlifting, Bulking, Nutrition",
 
-    "email":    "charithkapuluru@gmail.com",
+    "email":    "kapulurucharith@gmail.com",
     "website":  "charithkapuluru.com",
     "linkedin": "charith-kapuluru-159456329",
     "github":   "charithkapuluru",

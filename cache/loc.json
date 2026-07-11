@@ -1,0 +1,30 @@
+{
+  "CharithKapuluru/charithkapuluru-website": {
+    "a": 38566,
+    "d": 7032
+  },
+  "CharithKapuluru/fastapi-devsecops-demo": {
+    "a": 8508,
+    "d": 1724
+  },
+  "CharithKapuluru/proj2-ecs-fargate": {
+    "a": 24232,
+    "d": 4716
+  },
+  "CharithKapuluru/devsecops-platform": {
+    "a": 13601,
+    "d": 89
+  },
+  "CharithKapuluru/linux-sysadmin-deep-dive": {
+    "a": 5338,
+    "d": 0
+  },
+  "CharithKapuluru/cinebook-dbms": {
+    "a": 2480,
+    "d": 0
+  },
+  "CharithKapuluru/CharithKapuluru": {
+    "a": 754,
+    "d": 0
+  }
+}

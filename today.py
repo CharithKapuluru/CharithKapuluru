@@ -40,7 +40,7 @@ INFO = {
 
     "email":    "charithkapuluru@gmail.com",
     "website":  "charithkapuluru.com",
-    "linkedin": "charithkapuluru",     # <-- confirm your LinkedIn handle
+    "linkedin": "charith-kapuluru-159456329",
     "github":   "charithkapuluru",
 }
 

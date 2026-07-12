@@ -27,7 +27,7 @@ BIRTHDAY = datetime.date(2002, 1, 30)          # drives the live "Uptime" line
 INFO = {
     "header": "charith@kapuluru",
     "os":      "macOS Sequoia, Ubuntu, Windows 11",
-    "host":    "CBRE - Digital & Technology (Incoming)",
+    "host":    "404: Employer Not Found",
     "kernel":  "Cloud & DevSecOps / GenAI Engineer",
     "ide":     "VS Code, Claude Code, PyCharm",
 
